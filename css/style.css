@@ -17,6 +17,7 @@ body {font-family: 'Roboto-Medium', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	color: #8e8e8e;}
+.c_padding {padding: 0 100px;}
 /*Common End*/
 
 /*Header Start*/
@@ -34,7 +35,8 @@ header {padding: 15px 0;
     color: #8e8e8e;
 	padding: 0 30px !important;}
 .menu ul li a:hover {color: #333333 !important;}
-.btn_search {border: none;}
+.btn_search {padding-right: 0;
+	border: none;}
 .btn_search i {color: #8e8e8e;}
 .btn_search:after {display: none;}
 .cstm_drop_menu {width: 400px;
@@ -54,7 +56,7 @@ header {padding: 15px 0;
 	border: 0;
 	background: transparent;}
 /*Header End*/
-
+.sss {padding: 0;}
 /*Slider Section Start*/
 .slider {background-image:url(../images/slider.jpg);
 	background-repeat: no-repeat;
