@@ -21,8 +21,7 @@ body {font-family: 'Roboto-Medium', sans-serif;
 /*Common End*/
 
 /*Header Start*/
-header {padding: 15px 0;
-	border: 1px solid red;}
+header {padding: 15px 0;}
 .c_nav {}
 .logo {font-family: 'Lato-Regular', sans-serif;
 	font-size: 30px;
